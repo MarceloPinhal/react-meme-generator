@@ -1,0 +1,12 @@
+header {
+    text-align: center;
+    color: white;
+    height: 65px;
+    background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+    margin: 10px;
+    font-size: 20px;
+}
+
+.header.tittle {
+    padding-top: 30px;
+}
